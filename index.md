@@ -26,6 +26,23 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+'''markdown
+  Testing how markdown works
+
+  # Stuff here
+  ## Touching Double
+
+  1. Item 1
+  2. Item 2
+
+  -Bullet point
+  
+  -Bullet list
+     
+  
+'''
+  
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes

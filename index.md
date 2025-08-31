@@ -1,3 +1,12 @@
+# Jolie's First CS193 Homework
+
+## Favorite Things About Class 
+- Meets once a week
+- Has nice TA's
+- Not Homework intensive
+- Has ducks hidden in the lecture hall
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -27,12 +36,11 @@ Syntax highlighted code block
 ```
 
 '''markdown
-  Testing how markdown works
+  Yellow highlighted text here
 
-  # Stuff here
-  ## Touching Double
+  # *Bold Stuff here*
 
-  1. Item 1
+  1. * Italicized Item 1*
   2. Item 2
 
   -Bullet point
